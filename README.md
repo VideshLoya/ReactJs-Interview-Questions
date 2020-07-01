@@ -8,7 +8,7 @@
     <p>
         <a href="https://www.fullstack.cafe/?utm_source=github&utm_medium=sud">
             <b>Having Tech Interview?</b>
-            <br> 300 + React Js Tech Interview Questions. <b>Answered</b>.
+            <br> 300+ React Js Tech Interview Questions. <b>Answered</b>.
             <br>
             <div>
                 <img src="https://user-images.githubusercontent.com/13550565/76382460-cc784d80-6393-11ea-8837-2b89265ac853.png" width="260" alt="FullStack.Cafe">
