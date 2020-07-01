@@ -25,7 +25,7 @@
 
 | No. | Questions |
 | --- | --------- |
-|   | **Core React** |
+|   | ** React |
 |1  | [What is React?](#what-is-react) |
 |2  | [What are the major features of React?](#what-are-the-major-features-of-react) |
 |3  | [What is JSX?](#what-is-jsx) |
